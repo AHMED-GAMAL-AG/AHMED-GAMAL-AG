@@ -32,8 +32,24 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<!---
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AHMED-GAMAL-AG&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <be>
+ --->
+ 
+<p align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+    <!---
+           in the future make this, It will show the repos stats that you OWN only.
+  1. بعمل Personal access token وبديله full control of private repos و يعمل read لل user profile data
+2. بعمل fork ل github-readme-stats repo عندى
+3. بدخل على vercel واعمل deploy للريبو اللى عملتلها fork وأخد ال domain اللة بيطلع احطه عندى فى ال readme بدل ال domain اللى موجود 
+    <img src="https://github-readme-stats-omega-sand-46.vercel.app/api?username=AHMED-GAMAL-AG&show=reviews&count_private=true&hide=commits,issues,contribs" style="height: 195px;" />
+     --->
+    <img src="https://github-readme-stats-omega-sand-46.vercel.app/api/top-langs/?username=AHMED-GAMAL-AG&layout=compact" style="height: 195px;" />
+  </div>
+</p>
+
 
 <!---
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
