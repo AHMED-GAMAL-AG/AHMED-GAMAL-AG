@@ -9,7 +9,7 @@
   </a>
 </p>
 
-- 🏢 I'm a **Software Engineer** at [Intrazero](#)
+- 🏢 I'm a **Software Engineer** at [Intrazero](https://www.intrazero.com/)
 - 👨‍💻 I constantly learn and explore new technologies to improve my skills.
 - 💬 Ask me about **PHP**, **Laravel**, **MySQL**, **Docker**, **AI Integrations**, or anything related to web back-end development.
 - ⚡ Fun fact: The gym is my second home, and my perfect day starts with heavy lifting — in both weights and code.
