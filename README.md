@@ -1,58 +1,106 @@
+<h1 align="center">
+  Hi 👋, I'm Ahmed Gamal
+</h1>
 
-
-<h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
-
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-
-- 🏢 I'm a Software Engineer at Intrazero
-- 👨‍💻 As a Software Engineer, I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with PHP, Laravel, Mysql, or anything related to web development.
-- ⚡ Fun Fact: The Gym is my second home and my perfect day would start with some lifting.
-  
-
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/ahmed~gamal" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-
-### 🛠 &nbsp;Tech Stack
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
-![docker](https://img.shields.io/badge/-docker%20-05122A?style=flat&logo=docker)&nbsp;
-![LiveWire](https://img.shields.io/badge/-LiveWire-05122A?style=flat&logo=LiveWire)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript.js-05122A?style=flat&logo=Javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<!---
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AHMED-GAMAL-AG&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<be>
- --->
- 
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-    <!---
-           in the future make this, It will show the repos stats that you OWN only.
-  1. بعمل Personal access token وبديله full control of private repos و يعمل read لل user profile data
-2. بعمل fork ل github-readme-stats repo عندى
-3. بدخل على vercel واعمل deploy للريبو اللى عملتلها fork وأخد ال domain اللة بيطلع احطه عندى فى ال readme بدل ال domain اللى موجود 
-    <img src="https://github-readme-stats-omega-sand-46.vercel.app/api?username=AHMED-GAMAL-AG&show=reviews&count_private=true&hide=commits,issues,contribs" style="height: 195px;" />
-     --->
-    <img src="https://github-readme-stats-omega-sand-46.vercel.app/api/top-langs/?username=AHMED-GAMAL-AG&layout=compact" style="height: 195px;" />
-  </div>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Web%20Developer;AI%20Enhanced%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
+  </a>
 </p>
 
+- 🏢 I'm a **Software Engineer** at [Intrazero](#)
+- 👨‍💻 I constantly learn and explore new technologies to improve my skills.
+- 💬 Ask me about **PHP**, **Laravel**, **MySQL**, **Docker**, **AI Integrations**, or anything related to web back-end development.
+- ⚡ Fun fact: The gym is my second home, and my perfect day starts with heavy lifting — in both weights and code.
 
-<!---
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=AHMED-GAMAL-AG&style=for-the-badge">
-</a>
- --->
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed~gamal" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahmedgamal.aa425@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/AHMED-GAMAL-AG" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+<!--   <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a> -->
+</p>
+
+---
+
+### 🛠 Tech & Tool Stack
+
+#### **Core Back-End**
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Livewire](https://img.shields.io/badge/-Livewire-05122A?style=flat&logo=livewire)
+
+#### **Frontend & UI**
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-05122A?style=flat&logo=alpinedotjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
+
+#### **Testing & Quality**
+![Pest](https://img.shields.io/badge/-Pest-05122A?style=flat&logo=pestphp)
+![PHPStan](https://img.shields.io/badge/-PHPStan-05122A?style=flat&logo=php)
+![Laravel Dusk](https://img.shields.io/badge/-Laravel%20Dusk-05122A?style=flat&logo=laravel)
+
+#### **AI & Developer Productivity (the list is endless)**
+![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-05122A?style=flat&logo=cursor)
+![Cursor CLI](https://img.shields.io/badge/-Cursor%20CLI%20Agents-05122A?style=flat&logo=ai)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-05122A?style=flat&logo=github)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-05122A?style=flat&logo=anthropic)
+![Gemini CLI](https://img.shields.io/badge/-Gemini%20CLI-05122A?style=flat&logo=googlegemini)
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
+
+#### **DevOps & CI/CD**
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=AHMED-GAMAL-AG&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=7200"
+    alt="Ahmed's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-GAMAL-AG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- Optional: pin a couple of highlight repos (replace names) -->
+<!--
+<p align="center">
+  <a href="https://github.com/AHMED-GAMAL-AG/REPO_ONE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-GAMAL-AG&repo=REPO_ONE&theme=tokyonight&hide_border=true" alt="Repo One"/>
+  </a>
+  <a href="https://github.com/AHMED-GAMAL-AG/REPO_TWO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-GAMAL-AG&repo=REPO_TWO&theme=tokyonight&hide_border=true" alt="Repo Two"/>
+  </a>
+</p>
+-->
+
+---
+
+> 🚀 Always building. Always learning. Always lifting — in the gym and in code.
