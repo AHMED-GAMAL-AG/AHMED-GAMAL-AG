@@ -2,11 +2,8 @@
   Hi 👋, I'm Ahmed Gamal
 </h1>
 
-<!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Software+Engineer;PHP+%C2%B7+Laravel+%C2%B7+Filament;Building+GovTech+%26+humanitarian+platforms;Always+learning%2C+always+lifting&font=Fira%20Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
-  </a>
+  <b>Backend Software Engineer</b> &nbsp;·&nbsp; PHP &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Filament &nbsp;·&nbsp; Building GovTech &amp; humanitarian platforms
 </p>
 
 <p align="center">
