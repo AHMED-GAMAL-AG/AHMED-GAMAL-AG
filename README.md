@@ -6,10 +6,6 @@
   <b>Backend Software Engineer</b> &nbsp;·&nbsp; PHP &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Filament &nbsp;·&nbsp; Building GovTech &amp; humanitarian platforms
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AHMED-GAMAL-AG&style=flat&color=0077B5&label=Profile+views" alt="Profile views"/>
-</p>
-
 - 🏢 Backend Software Engineer at [Intrazero](https://www.intrazero.com/), building secure GovTech and humanitarian platforms.
 - 🌍 I ship production Laravel systems used by governments, NGOs, and millions of users.
 - 💬 Ask me about **PHP**, **Laravel**, **Filament**, **MySQL**, **Redis**, **multi-tenancy**, **REST APIs**, or **AI integrations**.
