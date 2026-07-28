@@ -5,25 +5,37 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Web%20Developer;AI%20Enhanced%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Software+Engineer;PHP+%C2%B7+Laravel+%C2%B7+Filament;Building+GovTech+%26+humanitarian+platforms;Always+learning%2C+always+lifting&font=Fira%20Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
   </a>
 </p>
 
-- 🏢 I'm a **Software Engineer** at [Intrazero](https://www.intrazero.com/)
-- 👨‍💻 I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about **PHP**, **Laravel**, **MySQL**, **Docker**, **AI Integrations**, or anything related to web back-end development.
-- ⚡ Fun fact: The gym is my second home, and my perfect day starts with heavy lifting — in both weights and code.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AHMED-GAMAL-AG&style=flat&color=0077B5&label=Profile+views" alt="Profile views"/>
+</p>
+
+- 🏢 Backend Software Engineer at [Intrazero](https://www.intrazero.com/), building secure GovTech and humanitarian platforms.
+- 🌍 I ship production Laravel systems used by governments, NGOs, and millions of users.
+- 💬 Ask me about **PHP**, **Laravel**, **Filament**, **MySQL**, **Redis**, **multi-tenancy**, **REST APIs**, or **AI integrations**.
+- ⚡ Fun fact: the gym is my second home. My perfect day starts with heavy lifting, in both weights and code.
+
+---
+
+## 🚀 What I build
+
+- 🎓 Multi-tenant **exam SaaS serving 1.5M+ students**, cutting exam delivery time by ~40%.
+- 🛡️ **UNICEF** National Child Protection Platform, reducing report-processing time by ~60%.
+- 🌐 Secure backends across **6+ GovTech and humanitarian platforms** (UNICEF, Egyptian Red Crescent, Etmad / Monsha'at, Terre des hommes).
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
+  <a href="https://ahmedgamal.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ahmed~gamal" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Ahmed%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:ahmedgamal.aa425@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AHMED-GAMAL-AG" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
 
 ---
 
@@ -32,37 +44,36 @@
 #### **Core Back-End**
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+![Filament](https://img.shields.io/badge/-Filament-05122A?style=flat&logo=laravel)
+![Livewire](https://img.shields.io/badge/-Livewire-05122A?style=flat&logo=livewire)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Livewire](https://img.shields.io/badge/-Livewire-05122A?style=flat&logo=livewire)
 
 #### **Frontend & UI**
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Alpine.js](https://img.shields.io/badge/-Alpine.js-05122A?style=flat&logo=alpinedotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 
 #### **Testing & Quality**
 ![Pest](https://img.shields.io/badge/-Pest-05122A?style=flat&logo=pestphp)
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-05122A?style=flat&logo=php)
 ![PHPStan](https://img.shields.io/badge/-PHPStan-05122A?style=flat&logo=php)
-![Laravel Dusk](https://img.shields.io/badge/-Laravel%20Dusk-05122A?style=flat&logo=laravel)
-
-#### **AI & Developer Productivity (the list is endless)**
-![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-05122A?style=flat&logo=cursor)
-![Cursor CLI](https://img.shields.io/badge/-Cursor%20CLI%20Agents-05122A?style=flat&logo=ai)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-05122A?style=flat&logo=github)
-![Claude Code](https://img.shields.io/badge/-Claude%20Code-05122A?style=flat&logo=anthropic)
-![Gemini CLI](https://img.shields.io/badge/-Gemini%20CLI-05122A?style=flat&logo=googlegemini)
-![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
 
 #### **DevOps & CI/CD**
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices)
+
+#### **AI-Assisted Development**
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-05122A?style=flat&logo=anthropic)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-05122A?style=flat&logo=githubcopilot)
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
+![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=cursor)
 
 ---
 
@@ -81,18 +92,27 @@
   />
 </p>
 
-<!-- Optional: pin a couple of highlight repos (replace names) -->
-<!--
+---
+
+### 📌 Featured Repositories
+
 <p align="center">
-  <a href="https://github.com/AHMED-GAMAL-AG/REPO_ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-GAMAL-AG&repo=REPO_ONE&theme=tokyonight&hide_border=true" alt="Repo One"/>
+  <a href="https://github.com/AHMED-GAMAL-AG/youtube-scraper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-GAMAL-AG&repo=youtube-scraper&theme=tokyonight&hide_border=true" alt="youtube-scraper"/>
   </a>
-  <a href="https://github.com/AHMED-GAMAL-AG/REPO_TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-GAMAL-AG&repo=REPO_TWO&theme=tokyonight&hide_border=true" alt="Repo Two"/>
+  <a href="https://github.com/AHMED-GAMAL-AG/Content-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-GAMAL-AG&repo=Content-Management-System&theme=tokyonight&hide_border=true" alt="Content-Management-System"/>
   </a>
 </p>
--->
+<p align="center">
+  <a href="https://github.com/AHMED-GAMAL-AG/Youtube-Lite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-GAMAL-AG&repo=Youtube-Lite&theme=tokyonight&hide_border=true" alt="Youtube-Lite"/>
+  </a>
+  <a href="https://github.com/AHMED-GAMAL-AG/Instagram-Lite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-GAMAL-AG&repo=Instagram-Lite&theme=tokyonight&hide_border=true" alt="Instagram-Lite"/>
+  </a>
+</p>
 
 ---
 
-> 🚀 Always building. Always learning. Always lifting — in the gym and in code.
+> 🚀 Always building. Always learning. Always lifting, in the gym and in code.
