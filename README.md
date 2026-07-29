@@ -6,7 +6,7 @@
   <b>Backend Software Engineer</b> &nbsp;·&nbsp; PHP &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Filament &nbsp;·&nbsp; Multi-tenant SaaS, GovTech &amp; humanitarian platforms
 </p>
 
-- 🏢 Backend Software Engineer at [Intrazero](https://www.intrazero.com/), building secure GovTech and humanitarian platforms.
+- 🏢 Backend Software Engineer, building secure GovTech and humanitarian platforms.
 - 🌍 I ship production Laravel systems, from multi-tenant SaaS to GovTech, used by governments, NGOs, and millions of users.
 - 💬 Ask me about **PHP**, **Laravel**, **Filament**, **MySQL**, **Redis**, **multi-tenancy**, **REST APIs**, or **AI integrations**.
 - ⚡ Fun fact: the gym is my second home. My perfect day starts with heavy lifting, in both weights and code.
